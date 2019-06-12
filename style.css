@@ -1,6 +1,6 @@
 header {
 font-family: 'Times New Roman', Times, serif;
-font-size: 25px;
+font-size: 400px;
 background-color: blue;
 }
 
@@ -10,5 +10,3 @@ ul {
     padding: 0;
     display: inline;
   }
-
-  
